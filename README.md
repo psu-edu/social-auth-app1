@@ -7,7 +7,8 @@ A Node.js web application that enables users to log in using their **Google** or
 
 - 🌍 Social Login via:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png" alt="Google Logo" width="40" />
-  - ![Facebook](https://img.shields.io/badge/Login%20with-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+  - ![Facebook Icon](https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png)
+
   - 🔗 [Login with Facebook](https://www.facebook.com/)
 
 ## 🔐 OAuth Providers
