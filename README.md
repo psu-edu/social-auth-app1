@@ -8,10 +8,9 @@ A Node.js web application that enables users to log in using their **Google** or
 - 🌍 Social Login via:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png" alt="Google Logo" width="40" />
   - ![Facebook](https://img.shields.io/badge/Login%20with-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+  - 🔗 [Login with Facebook](https://www.facebook.com/)
+
 ## 🔐 OAuth Providers
-
-[![Facebook](https://img.shields.io/badge/Login%20with-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](http://localhost:3000/auth/facebook)
-
 
 - 🛡️ Secure session management with `express-session` and `connect-mongo`
 - 🗄️ User data stored in MongoDB using Mongoose
@@ -90,8 +89,6 @@ PORT=3000
 
 3. MongoDB Community Server Download
 ## 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
