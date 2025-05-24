@@ -1,4 +1,3 @@
-
 # Social Auth App
 
 A Node.js web application that enables users to log in using their **Google** or **Facebook** accounts. It uses **OAuth 2.0**, **Passport.js**, and **MongoDB** for authentication and session management.
