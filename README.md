@@ -118,8 +118,10 @@ npm install express passport passport-google-oauth20 passport-facebook express-s
 - MongoDB must be running
 
 ✍️ Author
+
 Tahira Malik
 
 
 📝 License
+
 This project is licensed under the MIT License.
