@@ -6,10 +6,8 @@ A Node.js web application that enables users to log in using their **Google** or
 ## 🔧 Features
 
 - 🌍 Social Login via:
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="40" alt="Facebook Icon">
-  - ![Facebook Icon](https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png)
-
-  - 🔗 [Login with Facebook](https://www.facebook.com/)
+  -   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png" alt="Google Logo" width="40" />
+  -   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="40" alt="Facebook Icon">
 
 ## 🔐 OAuth Providers
 
