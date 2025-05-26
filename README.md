@@ -1,6 +1,6 @@
 # Social Auth App
-
-A Node.js web application that enables users to log in using their **Google** or **Facebook** accounts. It uses **OAuth 2.0**, **Passport.js**, and **MongoDB** for authentication and session management.
+## Project Overview
+This project implements a Node.js-based web application that enables users to log in using their Google or Facebook accounts. It leverages OAuth 2.0 protocol through Passport.js strategies, with user data stored in MongoDB. Sessions are managed with express-session and stored persistently using connect-mongo.
 
 ## 🔧 Features
 
