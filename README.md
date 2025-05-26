@@ -8,6 +8,10 @@ A Node.js web application that enables users to log in using their **Google** or
   -   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png" alt="Google Logo" width="40" />
   -   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="40" alt="Facebook Icon">
 
+## 🔐 Social Media Authentication Flow Diagrams
+![image](https://github.com/user-attachments/assets/1abc9faf-0281-456a-983a-d6303bb8043a)
+![image](https://github.com/user-attachments/assets/26452ea8-b957-4f75-8e55-26081c2c6bf9)
+
 ## 🔐 OAuth Providers
 
 - 🛡️ Secure session management with `express-session` and `connect-mongo`
@@ -53,11 +57,13 @@ Set http://localhost:3000/auth/facebook/callback as the Valid OAuth Redirect URI
 1. Clone the repo
 
 git clone https://github.com/psu-edu/social-auth-app1.git
+
 cd social-auth-app1
 
 📁 Project Structure
 
 social-auth-app/
+
 ├── auth/              # OAuth strategies
 
 │   ├── facebook.js
@@ -88,10 +94,15 @@ social-auth-app/
 Create a .env file in the root directory:
 
 GOOGLE_CLIENT_ID=your_google_client_id
+
 GOOGLE_CLIENT_SECRET=your_google_client_secret
+
 FACEBOOK_APP_ID=your_facebook_app_id
+
 FACEBOOK_APP_SECRET=your_facebook_app_secret
+
 SESSION_SECRET=your_session_secret
+
 MONGO_URI=mongodb://localhost:27017/social_auth
 PORT=3000
 
