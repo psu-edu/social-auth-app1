@@ -59,16 +59,27 @@ cd social-auth-app1
 
 social-auth-app/
 ├── auth/              # OAuth strategies
+
 │   ├── facebook.js
+
 │   └── google.js
+
 ├── models/            # Mongoose User model
+
 │   └── User.js
+
 ├── routes/            # Auth & profile routes
+
 │   ├── auth.js
+
 │   └── profile.js
+
 ├── .env               # Environment config (excluded from Git)
+
 ├── .gitignore         # excluded from Git
+
 ├── index.js           # Entry point
+
 ├── package.json
 
 
