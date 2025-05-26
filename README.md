@@ -9,7 +9,7 @@ A Node.js web application that enables users to log in using their **Google** or
   -   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="40" alt="Facebook Icon">
 
 ## 🔐 Social Media Authentication Flow Diagrams
-![image](https://github.com/user-attachments/assets/1abc9faf-0281-456a-983a-d6303bb8043a)
+![image](https://github.com/user-attachments/assets/af3d65cf-e9db-476b-bc0a-ad2efb8af7dd)
 ![image](https://github.com/user-attachments/assets/26452ea8-b957-4f75-8e55-26081c2c6bf9)
 
 ## 🔐 OAuth Providers
@@ -135,9 +135,10 @@ npm install express passport passport-google-oauth20 passport-facebook express-s
 - Redirects to `/profile` on success
 
 ## Troubleshooting
-- Ensure your OAuth credentials match callback URLs
+- Ensure that OAuth credentials match callback URLs
 - MongoDB must be running
-
+- Error handling and logging mechanisms added
+  
 ✍️ Author
 
 Tahira Malik
